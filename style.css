@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    background: #FFFFFF;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.navigation {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+main {
+    margin-top: 89px;
+    margin-bottom: 259px;
+}
+
+.title {
+    margin-bottom: 17px;
+}
+
+.top_content {
+    margin-bottom: 37px;
+}
+
+footer {
+    padding-top: 97px;
+    padding-bottom: 97px;
+}
